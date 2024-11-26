@@ -5,7 +5,7 @@
 
 -----------------
 
-# pandas: powerful Python data analysis toolkit
+# pandas: awesome Python data analysis toolkit
 
 | | |
 | --- | --- |
